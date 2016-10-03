@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mongo-java-driver-3.3.0 (1)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mongo-java-driver-3.3.0 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BungeeCord.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../morphia-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
